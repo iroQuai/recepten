@@ -1,5 +1,5 @@
 # Your base url
-baseURL = "localhost"
+baseURL = "https://recepten-iroquai.netlify.app"
 # Your page title
 title = "Stijns recepten"
 theme = "cuisine-book"
