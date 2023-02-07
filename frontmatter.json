@@ -42,6 +42,31 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "featured_image",
+          "name": "featured_image",
+          "type": "string"
+        },
+        {
+          "title": "rating",
+          "name": "rating",
+          "type": "datetime"
+        },
+        {
+          "title": "comment",
+          "name": "comment",
+          "type": "datetime"
+        },
+        {
+          "title": "website",
+          "name": "website",
+          "type": "string"
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     }

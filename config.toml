@@ -11,7 +11,7 @@ enableGitInfo = false
   description = "Ik hou van eten"
   # (Optional) Your logo in the header navbar which has to be stored in static folder.
   # If the logo is /static/logo.png then the path would be 'logo.png'
-  logo = "logo.png"
+  # logo = "logo.png"
   # (Optional) Enable comments template on pages
   # By default partials/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus

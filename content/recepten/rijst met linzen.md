@@ -1,12 +1,13 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.560Z
 ---
 
 ## Benodigdheden
@@ -14,9 +15,9 @@ website: ""
 -   2  uien 
 -   4  tenen knoflook 
 -   2  (roma)tomaten, goed rijp 
--   30 grams  platte peterselie 
+-   30 gram  platte peterselie 
 -   2  blik linzen, a 400gr (uitlekgewicht 265gr) 
--   240 grams  zilvervliesrijst 
+-   240 gram  zilvervliesrijst 
 -   1 liter  groentebouillon 
 
 ## Bereiding

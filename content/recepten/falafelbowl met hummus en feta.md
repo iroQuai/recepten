@@ -1,29 +1,31 @@
 ---
-title: 
-date: 
-tags: []
-featured_image: ""
+title: Falafelbowl met hummus en feta
+date: null
+tags:
+  - couscous
+  - falafel
+  - salade
+featured_image: falafelbowl.png
 description: ""
 rating: 5
 comment: false
-website: ""
+website: https://picnic.app/
+lastmod: 2023-02-07T21:41:44.246Z
 ---
-
-Via picnic
 
 ## Benodigdheden
 
--   200 grams  falafel 
+-   200 gram  falafel 
 -   150 milliliters  knoflooksaus 
 -   1  komkommer 
--   250 grams  cherrytomaatjes 
+-   250 gram  cherrytomaatjes 
 -   1  courgette 
--   125 grams  feta 
--   350 grams  couscous 
--   200 grams  hummus, pikant 
+-   125 gram  feta 
+-   350 gram  couscous 
+-   200 gram  hummus, pikant 
 -   3  el olijfolie 
 -   zwarte peper & zout 
--   1  Bouillonblokje optional 
+-   1  Bouillonblokje  
 
 ## Bereiding
 
@@ -35,5 +37,4 @@ Via picnic
 
 ## Notities
 
-Tip  
-Extra lekker hartig met een lepel kalamata-olijventapenade. De hummus is niet heel pittig, maar wil je 'm toch minder pikant? Kies dan voor de naturel hummus!
+**Tip:** Extra lekker hartig met een lepel kalamata-olijventapenade. De hummus is niet heel pittig, maar wil je 'm toch minder pikant? Kies dan voor de naturel hummus!

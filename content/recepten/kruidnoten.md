@@ -1,12 +1,13 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.585Z
 ---
 
 Kruidnoten are small, round, cookie-like confectioneries with a crispy texture, traditionally associated with the early December Sinterklaas festivities in the Netherlands.
@@ -16,9 +17,9 @@ The term kruidnoten is often confused with pepernoten. Kruidnoten, which transla
 ## Benodigdheden
 
 -   4 teaspoons 
--   250 grams  self-raising flour 
--   125 grams  darkbrown sugar 
--   100 grams  cold hard butter 
+-   250 gram  self-raising flour 
+-   125 gram  darkbrown sugar 
+-   100 gram  cold hard butter 
 -   6 tablespoons  milk 
 -   1 pinch  salt 
 

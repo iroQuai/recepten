@@ -10,7 +10,7 @@ description: stuffed with lots of cheese
 rating: 5
 comment: false
 website: http://littlespicejar.com/cheesy-garlic-pull-apart-bread/
-lastmod: 2023-02-07T21:35:58.101Z
+lastmod: 2023-02-07T21:38:59.171Z
 ---
 Cheesy garlic pull apart bread that’s stuffed with fresh mozzarella, minced garlic, butter, and parsley. This is such a fun, edible centerpiece that would be great to serve when you’re entertaining!
 
@@ -21,7 +21,7 @@ Cheesy garlic pull apart bread that’s stuffed with fresh mozzarella, minced ga
 -   2 tablespoons  olive oil 
 -   1  small loaf country or sour dough bread 
 -   3 tablespoons  butter 
--   salt to taste optional 
+-   salt to taste  
 -   4 ounces  deli sliced mozzarella cheese, or shredded 
 
 ## Bereiding

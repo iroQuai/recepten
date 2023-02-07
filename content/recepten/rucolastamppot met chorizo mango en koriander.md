@@ -1,20 +1,21 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.549Z
 ---
 
 ## Benodigdheden
 
 -   1 kilogram  zoete aardappels 
--   225 grams  rucola, grof gesneden 
+-   225 gram  rucola, grof gesneden 
 -   blaadjes van 3 takjes verse koriander 
--   150 grams  chorizoworst, gehalveerd & in plakjes 
+-   150 gram  chorizoworst, gehalveerd & in plakjes 
 -   ½  mango, in stukjes 
 -   ½  rode peper, fijngehakt 
 -   sap van 1 limoen 

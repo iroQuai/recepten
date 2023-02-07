@@ -1,12 +1,15 @@
 ---
-title: 
-date: 
-tags: []
-featured_image: ""
-description: ""
+title: geroosterde bloemkool
+date: null
+tags:
+  - tahin
+  - bloemkool
+featured_image: geroosterdebloemkooltahin.jpg
+description: met amandelschilfers en tahin
 rating: 5
 comment: false
-website: ""
+website: https://www.fisforsofia.be/2020/03/12/geroosterde-bloemkool-met-tahin-amandelschilfers/
+lastmod: 2023-02-07T21:44:35.096Z
 ---
 
 ## Benodigdheden

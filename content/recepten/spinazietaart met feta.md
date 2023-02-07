@@ -1,25 +1,26 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.542Z
 ---
 
 ## Ingredienten
 
--   100 grams  pijnboompitten ((geroosterd)) 
--   400 grams  verse spinazie ((gewassen!)) 
--   300 grams  feta kaas 
--   50 grams  geraspte kaas ((jong belegen)) 
+-   100 gram  pijnboompitten ((geroosterd)) 
+-   400 gram  verse spinazie ((gewassen!)) 
+-   300 gram  feta kaas 
+-   50 gram  geraspte kaas ((jong belegen)) 
 -   5  eieren 
 -   1  citroen 
 -   1  el gedroogde oregano 
 -   1  klontje roomboter 
--   250 grams  filodeeg ((uit de diepvries, ongeveer 12 vellen)) 
+-   250 gram  filodeeg ((uit de diepvries, ongeveer 12 vellen)) 
 -   nootmuskaat 
 -   olijfolie 
 

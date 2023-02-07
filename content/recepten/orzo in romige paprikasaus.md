@@ -1,12 +1,13 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.525Z
 ---
 
 Via Picnic!
@@ -14,12 +15,12 @@ Via Picnic!
 ## Benodigdheden
 
 -   Ingrediënten
--   400 grams  orzo 
+-   400 gram  orzo 
 -   1 paprika, Rood 
--   400 grams  spinazie 
+-   400 gram  spinazie 
 -   1  pot geroosterde-paprikareepjes 
--   200 grams  crème fraîche 
--   40 grams  geraspte Italiaanse kaas 
+-   200 gram  crème fraîche 
+-   40 gram  geraspte Italiaanse kaas 
 -   2 tablespoons  tomatenpuree 
 -   Uit eigen keuken
 -   2 tablespoons  olijfolie 

@@ -1,22 +1,23 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.519Z
 ---
 
 ## Benodigdheden
 
--   200 grams  rijst 
+-   200 gram  rijst 
 -   2  kipfilets 
 -   2  eetlepels Vadouvan kruiden van Green Gypsy 
--   200 grams  tomatenblokjes, uit blik 
+-   200 gram  tomatenblokjes, uit blik 
 -   ½  bouillonblokje, ik had groente 
--   150 grams  bruine linzen, uit blik 
+-   150 gram  bruine linzen, uit blik 
 -   1  chilipeper 
 -   200 milliliters  kokosmelk 
 -   ½  limoen 

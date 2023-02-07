@@ -1,12 +1,13 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:38:59.199Z
 ---
 
 Deze romige pasta met spinazie en courgette is ontzettend lekker en in zo’n 25 minuten klaar.  
@@ -14,15 +15,15 @@ bron: [lekkerensimpel.com/romige...](https://www.lekkerensimpel.com/romige-pasta
 
 ## Benodigdheden
 
--   300 grams  pasta, bijv Penne 
--   400 grams  diepvriesspinazie, of 600 gr verse spinazie 
+-   300 gram  pasta, bijv Penne 
+-   400 gram  diepvriesspinazie, of 600 gr verse spinazie 
 -   2  rode ui 
 -   2  bakjes cherrytomaatjes, (of 4 tomaten) 
 -   1  courgette 
 -   200 milliliters  kookroom 
 -   roomkaas met kruiden, hoeveelheid naar eigen inschatting ;) 
 -   snufje zout en peper 
--   3  plakken ontbijtspek of zalm! optional 
+-   3  plakken ontbijtspek of zalm!  
 
 ## Bereiding
 

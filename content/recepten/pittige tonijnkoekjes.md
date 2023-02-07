@@ -1,23 +1,24 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:38:59.205Z
 ---
 
 ## Benodigdheden
 
 -   4  el bloem 
--   200 grams  tonijn in olie uit blik, uitgelekt 
+-   200 gram  tonijn in olie uit blik, uitgelekt 
 -   2½  el curry pasta 
 -   1  bosuitje, fijngesneden 
 -   1  ei, losgeklopt 
 -   Zonnebloemolie, om in te bakken 
--   Blaadjes rucola, voor erbij optional 
+-   Blaadjes rucola, voor erbij  
 -   Zout 
 -   Peper 
 

@@ -1,12 +1,13 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.593Z
 ---
 
 Deze linzencurry is naast smaakvol ook erg voedzaam. Rode linzen zitten boordevol vitamines, mineralen, antioxidanten, vezels en plantaardige eiwitten. Door dat hoge eiwitgehalte zijn ze een uitstekende vleesvervanger.
@@ -17,9 +18,9 @@ Bron: [nu.nl/eten-en-drinken/602...](https://www.nu.nl/eten-en-drinken/6026116/r
 
 ## Benodigdheden
 
--   500 grams  snijbonen 
--   300 grams  volkoren basmatirijst 
--   200 grams  rode linzen 
+-   500 gram  snijbonen 
+-   300 gram  volkoren basmatirijst 
+-   200 gram  rode linzen 
 -   1  tuinkruidenbouillonblokje 
 -   2½ teaspoons  curry madras 
 

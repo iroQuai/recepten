@@ -1,18 +1,19 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.571Z
 ---
 
 ## Benodigdheden
 
--   400 grams  nasi of wokgroenten 
--   150 grams  rijst 
+-   400 gram  nasi of wokgroenten 
+-   150 gram  rijst 
 -   2  eieren 
 -   2  teentjes knoflook 
 -   1  ui 

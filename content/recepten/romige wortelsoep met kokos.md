@@ -1,19 +1,20 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:35:32.554Z
 ---
 
 ## Benodigdheden
 
 -   1  sinaasappel 
 -   200 milliliters  kokosmelk 
--   50 grams  geraspte kokos 
+-   50 gram  geraspte kokos 
 -   1  ui 
 -   verse gember, ong 2,5cm 
 -   1  theelepel gemalen koriander 

@@ -1,12 +1,13 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:38:59.193Z
 ---
 
 Heerlijk roomijs met maar drie ingredienten, te maken zonder ijsmachine!
@@ -15,7 +16,7 @@ Heerlijk roomijs met maar drie ingredienten, te maken zonder ijsmachine!
 
 -   500 milliliters  slagroom 
 -   1  blikje gecondenseerde melk, 397 gram 
--   3  tl vanillepasta\*, dit ingredient kan je naar smaak wijzigen naar wat je maar wil! optional 
+-   3  tl vanillepasta\*, dit ingredient kan je naar smaak wijzigen naar wat je maar wil!  
 
 ## Bereiding
 

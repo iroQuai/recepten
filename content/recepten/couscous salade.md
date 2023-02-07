@@ -1,29 +1,33 @@
 ---
-title: 
-date: 
-tags: []
-featured_image: ""
-description: ""
+title: vegetarische ouscous salade
+date: null
+tags:
+  - couscous
+  - salade
+  - vegetarisch
+featured_image: Couscous-salade.jpg
+description: in tabouleh stijl
 rating: 5
 comment: false
-website: ""
+website: https://www.laurasbakery.nl/vegetarische-couscous-salade/
+lastmod: 2023-02-07T21:38:59.180Z
 ---
 Deze vegetarische couscous salade is een heerlijk bijgerecht en lijkt in de basis op een tabouleh salade. Ook geschikt voor veganisten! (bron: [laurasbakery.nl/vegetaris...](https://www.laurasbakery.nl/vegetarische-couscous-salade/))
 
 ## Benodigdheden
 
--   250 grams  couscous 
+-   250 gram  couscous 
 -   300 milliliters  bouillon 
--   400 grams  snoeptomaatjes 
--   200 grams  groene knoflook olijven inclusief de olie 
+-   400 gram  snoeptomaatjes 
+-   200 gram  groene knoflook olijven inclusief de olie 
 -   4  stengels bosui of lente-ui 
 -   1  kleine citroen sap en rasp 
--   50 grams  platte peterselie 
--   20 grams  munt 
--   100 grams  geroosterde pijnboompitten 
--   1  Komkommer optional 
--   1  Avocado optional 
--   200 grams  Feta optional 
+-   50 gram  platte peterselie 
+-   20 gram  munt 
+-   100 gram  geroosterde pijnboompitten 
+-   1  Komkommer  
+-   1  Avocado  
+-   200 gram  Feta  
 
 ## Bereiding
 

@@ -1,25 +1,26 @@
 ---
-title: 
-date: 
+title: null
+date: null
 tags: []
 featured_image: ""
 description: ""
 rating: 5
 comment: false
 website: ""
+lastmod: 2023-02-07T21:38:59.211Z
 ---
 
 ## Benodigdheden
 
--   400 grams  Pasta, Penne rigate, fusilli, etc 
+-   400 gram  Pasta, Penne rigate, fusilli, etc 
 -   1  Rode ui 
--   200 grams  Gerookte zalm 
--   200 grams  Prei, In ringen 
--   230 grams  Boursin cuisine 
--   400 grams  Cherrytomaatjes 
+-   200 gram  Gerookte zalm 
+-   200 gram  Prei, In ringen 
+-   230 gram  Boursin cuisine 
+-   400 gram  Cherrytomaatjes 
 -   Olijfolie 
--   100 grams  Crème fraiche optional 
--   Peper en zout optional 
+-   100 gram  Crème fraiche  
+-   Peper en zout  
 
 ## Bereiding
 
