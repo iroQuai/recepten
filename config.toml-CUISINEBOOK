@@ -1,0 +1,30 @@
+# Your base url
+baseURL = "https://recepten-iroquai.netlify.app"
+# Your page title
+title = "Stijns recepten"
+theme = "cuisine-book"
+# (Optional) Set this to true to enable Author.
+enableGitInfo = false
+
+[params]
+  author = "Stijn"
+  description = "Ik hou van eten"
+  # (Optional) Your logo in the header navbar which has to be stored in static folder.
+  # If the logo is /static/logo.png then the path would be 'logo.png'
+  # logo = "logo.png"
+  # (Optional) Enable comments template on pages
+  # By default partials/comments.html includes Disqus template
+  # See https://gohugo.io/content-management/comments/#configure-disqus
+  # Can be overwritten by same param in page frontmatter
+  comment = true
+  # Set source repository location.
+  repo = 'https://github.com/iroQuai/recepten'
+  # Enable 'Edit' links.
+  # Disabled by default. Uncomment to enable. Requires 'repo' param.
+  # Path must point to the site directory.
+  editpath = 'edit/main'
+  # Enable 'Add' links.
+  # Disabled by default. Uncomment to enable. Requires 'repo' param.
+  # Path must point to the site directory.
+  newpath = 'new/main'
+
