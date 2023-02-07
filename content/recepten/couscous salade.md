@@ -1,5 +1,5 @@
 ---
-title: vegetarische ouscous salade
+title: vegetarische couscous salade
 date: null
 tags:
   - couscous
