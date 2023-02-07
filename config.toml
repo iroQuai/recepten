@@ -22,8 +22,8 @@ enableGitInfo = false
   # Enable 'Edit' links.
   # Disabled by default. Uncomment to enable. Requires 'repo' param.
   # Path must point to the site directory.
-  editpath = 'edit/master'
+  editpath = 'edit/main'
   # Enable 'Add' links.
   # Disabled by default. Uncomment to enable. Requires 'repo' param.
   # Path must point to the site directory.
-  newpath = 'new/master'
+  newpath = 'new/main'

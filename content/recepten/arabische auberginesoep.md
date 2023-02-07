@@ -6,10 +6,8 @@ featured_image: "arabische-auberginesoep.jpg"
 description: "Heerlijke soep van aubergines"
 rating: 5
 comment: false
-website: ""
+website: "http://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/"
 ---
-Bron: [ilovehealth.nl](http://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/)
-
 Yield: 4 Koppen soep
 Time: 50 
 
