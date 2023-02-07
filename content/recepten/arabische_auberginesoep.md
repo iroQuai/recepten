@@ -1,9 +1,9 @@
 ---
-title: 
+title: Arabische Auberginesoep
 date: 
-tags: []
-featured_image: ""
-description: ""
+tags: [soep]
+featured_image: "arabische-auberginesoep.jpg"
+description: "Heerlijke soep van aubergines"
 rating: 5
 comment: false
 website: ""

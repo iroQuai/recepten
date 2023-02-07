@@ -1,10 +1,10 @@
-baseURL: https://example.com
+baseURL: localhost
 disablePathToLower: true
 languageCode: en-us
-title: My Recipes
+title: Mijn recepten
 theme: gochowdown
 googleAnalytics: 
-defaultcontentlanguage: en
+defaultcontentlanguage: nl
 paginate: 20
 canonifyurls: true
 pygmentsstyle: monokai
@@ -14,15 +14,15 @@ pygmentsOptions: "linenos=table"
 permalinks:
   posts: /posts/:year/:month/:title
 params:
-  author: John Doe
-  description: Recipes used by the Doe family
-  keywords: 'recipes'
+  author: Stijn
+  description: Recepten voor stijn en z'n familie
+  keywords: 'RECEPTEN'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
   footercontent: 
   hidecredits: false
   hidecopyright: false
-  showNavTitle: false            # Boolean: show site title in nav bar
+  showNavTitle: true            # Boolean: show site title in nav bar
   custom_css: 
     - style.css
 menu:
@@ -30,16 +30,16 @@ menu:
     - name: Home
       weight: 1
       url: /
-    - name: Category
+    - name: Categorie
       weight: 2
-      url: /category/
+      url: /categorie/
     - name: Cuisine
       weight: 3
-      url: /cuisine/
+      url: /stijl/
     - name: Tags
       weight: 4
       url: /tags/
 taxonomies:
-  category: category
-  cusine: cuisine
+  category: categorie
+  cusine: stijl
   tag: tags
