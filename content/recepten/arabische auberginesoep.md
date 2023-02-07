@@ -1,28 +1,30 @@
 ---
 title: Arabische Auberginesoep
-date: 
-tags: [soep]
-featured_image: "arabische-auberginesoep.jpg"
-description: "Heerlijke soep van aubergines"
+date: null
+tags:
+  - aubergine
+  - soep
+featured_image: arabische-auberginesoep.jpg
+description: Heerlijke soep van aubergines
 rating: 5
-comment: false
-website: "http://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/"
+comment: true
+website: http://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/
+lastmod: 2023-02-07T21:35:58.087Z
 ---
-Yield: 4 Koppen soep
-Time: 50 
+4 porties | 50 minuten
 
 ## Benodigdheden
 -   1 kleine rode ui  
--   2tenen knoflook
--   1aubergine
--   200 gramskikkererwten 
--   250 millilitersgezeefde tomaten 
+-   2 tenen knoflook
+-   1 aubergine
+-   200 gram kikkererwten 
+-   250 milliliter gezeefde tomaten 
 -   1tl harissa 
--   1kaneelstokje 
--   .8 literswater 
--   1groentebouillonblokje 
+-   1 kaneelstokje 
+-   .8 liter water 
+-   1 groentebouillonblokje 
 -   Kokosolie 
--   evt. verse koriander optional 
+-   evt. verse koriander 
 
 ## Bereiding
 1.  Pel de ui en knoflook, snipper de ui en snijd de aubergine in blokjes 
