@@ -42,31 +42,48 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
-        },
+        }
+      ]
+    },
+    {
+      "name": "recepten",
+      "pageBundle": true,
+      "fields": [
         {
-          "title": "featured_image",
-          "name": "featured_image",
+          "title": "title",
+          "name": "title",
           "type": "string"
         },
         {
-          "title": "rating",
-          "name": "rating",
+          "title": "date",
+          "name": "date",
           "type": "datetime"
         },
         {
-          "title": "comment",
-          "name": "comment",
-          "type": "datetime"
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
         },
         {
-          "title": "website",
-          "name": "website",
+          "title": "image",
+          "name": "image",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
           "type": "string"
         },
         {
           "title": "lastmod",
           "name": "lastmod",
           "type": "datetime"
+        },
+        {
+          "name": "type",
+          "type": "string",
+          "default": "recepten",
+          "hidden": true
         }
       ]
     }
@@ -75,10 +92,48 @@
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.pageFolders": [
     {
-      "title": "recepten",
-      "path": "[[workspace]]/content/recepten"
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
     }
   ],
-  "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": []
+  "frontMatter.taxonomy.tags": [
+    "Linzen",
+    "aubergine",
+    "bloemkool",
+    "bread",
+    "cheese",
+    "chorizo",
+    "couscous",
+    "curry",
+    "dipsaus",
+    "falafel",
+    "garlic",
+    "groentesoep",
+    "ijs",
+    "kapucijners",
+    "kokos",
+    "kruidnoten",
+    "linzen",
+    "nasi",
+    "orzo",
+    "pasta",
+    "rijst",
+    "rucola",
+    "salade",
+    "soep",
+    "speculaas",
+    "spinazie",
+    "stamppot",
+    "tahin",
+    "tonijn",
+    "vegetarisch",
+    "wortel",
+    "zalm"
+  ],
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.content.autoUpdateDate": true
 }
