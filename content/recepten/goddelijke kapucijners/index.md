@@ -3,15 +3,12 @@ title: Goddelijke kapucijners
 date: 2022-02-02
 tags:
   - kapucijners
+  - spekjes
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T15:22:47.276Z
+lastmod: 2023-02-08T21:53:24.145Z
 ---
-
-
-![Goddelijke kapucijners](https://d3gili29uk62li.cloudfront.net/media/user-images/thumbs/1200_384/cTRASyvPfB.jpg)
-
-Kapucijners zoals alleen Ronnie B ze maakt
+Kapucijners zoals alleen Ronnie B ze maakt! Met dank aan Johnny Boer voor de kruidenmix natuurlijk. 
 
 ## Benodigdheden
 
@@ -28,5 +25,5 @@ Kapucijners zoals alleen Ronnie B ze maakt
 -   Mayo met wat citroensap 
 
 ## Bereiding
-
-1.  1,5 ui, knoflook, spekjes aanbakken. Tomaat in blokjes erbij. Paprikapoeder, Zwolse stoof meebakken. Uitgelekte kapucijners erbij. Mosterd en wat sambal. Door elkaar en beetje meebakken
+De exacte bewoording van Ronald in de groepsapp: 
+>  1,5 ui, knoflook, spekjes aanbakken. Tomaat in blokjes erbij. Paprikapoeder, Zwolse stoof meebakken. Uitgelekte kapucijners erbij. Mosterd en wat sambal. Door elkaar en beetje meebakken
