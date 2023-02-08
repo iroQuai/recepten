@@ -3,9 +3,9 @@ title: Orzo
 date: 2022-02-02
 tags:
   - orzo
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:45:33.512Z
+lastmod: 2023-02-08T15:22:47.193Z
 ---
 
 Via Picnic!

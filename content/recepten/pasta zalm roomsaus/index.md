@@ -4,9 +4,9 @@ date: 2022-02-02
 tags:
   - pasta
   - zalm
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:45:40.525Z
+lastmod: 2023-02-08T15:22:47.177Z
 ---
 
 ## Benodigdheden

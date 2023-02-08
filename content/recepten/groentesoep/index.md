@@ -3,9 +3,9 @@ title: Groentesoep
 date: 2022-02-02
 tags:
   - groentesoep
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:44:22.510Z
+lastmod: 2023-02-08T15:22:47.256Z
 ---
 
 Simpel, lekker, warm.

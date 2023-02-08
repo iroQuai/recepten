@@ -4,9 +4,9 @@ tags:
   - couscous
   - salade
   - vegetarisch
-image: placeholder.jpg
+image: header.jpg
 description: in tabouleh stijl
-lastmod: 2023-02-07T22:43:37.598Z
+lastmod: 2023-02-08T15:25:30.842Z
 ---
 Deze vegetarische couscous salade is een heerlijk bijgerecht en lijkt in de basis op een tabouleh salade. Ook geschikt voor veganisten! (bron: [laurasbakery.nl/vegetaris...](https://www.laurasbakery.nl/vegetarische-couscous-salade/))
 

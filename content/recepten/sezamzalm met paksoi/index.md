@@ -3,9 +3,9 @@ title: sesamzalm met paksoi
 date: 2022-02-02
 tags:
   - zalm
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:46:34.717Z
+lastmod: 2023-02-08T15:22:47.103Z
 ---
 
 ## Benodigdheden

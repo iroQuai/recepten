@@ -3,9 +3,9 @@ title: Goddelijke kapucijners
 date: 2022-02-02
 tags:
   - kapucijners
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:44:11.157Z
+lastmod: 2023-02-08T15:22:47.276Z
 ---
 
 

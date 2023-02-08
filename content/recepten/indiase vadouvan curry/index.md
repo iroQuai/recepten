@@ -3,9 +3,9 @@ title: indaise vadouvain curry
 date: 2022-02-02
 tags:
   - curry
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:44:55.807Z
+lastmod: 2023-02-08T15:22:47.243Z
 ---
 
 ## Benodigdheden

@@ -4,9 +4,9 @@ date: 2022-02-02
 tags:
   - spinazie
   - pasta
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:45:57.226Z
+lastmod: 2023-02-08T15:22:47.154Z
 ---
 
 Deze romige pasta met spinazie en courgette is ontzettend lekker en in zo’n 25 minuten klaar.  

@@ -3,9 +3,9 @@ title: Indiase linzencurry
 date: 2022-02-02
 tags:
   - linzen
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:44:26.231Z
+lastmod: 2023-02-08T15:22:47.267Z
 ---
 
 Deze linzencurry is naast smaakvol ook erg voedzaam. Rode linzen zitten boordevol vitamines, mineralen, antioxidanten, vezels en plantaardige eiwitten. Door dat hoge eiwitgehalte zijn ze een uitstekende vleesvervanger.

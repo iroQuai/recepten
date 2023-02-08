@@ -3,10 +3,11 @@ title: Rijst met Linzen
 date: 2022-02-02
 tags:
   - Linzen
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:45:52.841Z
+lastmod: 2023-02-08T19:18:57.569Z
 ---
+bron: https://emsrealfood.nl/rijst-met-linzen/
 
 ## Benodigdheden
 

@@ -1,13 +1,15 @@
 ---
-title: rucolastampot
+title: Rucolastamppot met chorizo, mango en koriander
 date: 2022-02-02
 tags:
   - stamppot
   - rucola
   - chorizo
-image: placeholder.jpg
+  - mango
+  - koriander
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:42:21.306Z
+lastmod: 2023-02-08T19:23:55.665Z
 ---
 
 ## Benodigdheden
@@ -32,4 +34,4 @@ lastmod: 2023-02-07T22:42:21.306Z
 4.  5 mins  giet de aardappels af en stoom de aardappels in c.a. 30 sec droog op laag vuur. 
 5.  5 mins  voeg het ei en melk toe, stamp tot een grove puree. 
 6.  5 mins  schep de rode peper, het limoensap, de chorizo, de mango en de rucola er doorheen   nog eventjes op laag vuur door verwarmen, 
-7.  ![](https://cinc-prod-west.s3.amazonaws.com/media/user-images/thumbs/1000_1000_nocrop/wFy5YZQxcp.jpg)  daarna: serveren maar!
+7.  daarna: serveren maar!

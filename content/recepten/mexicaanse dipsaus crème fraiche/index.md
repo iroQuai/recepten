@@ -3,9 +3,9 @@ title: mexicaanse dipsaus
 date: 2022-02-02
 tags:
   - dipsaus
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:45:20.082Z
+lastmod: 2023-02-08T15:22:47.226Z
 ---
 
 Deze heerlijke frisse Mexicaanse dipsaus maak je binnen 2 minuten klaar. Je hoeft namelijk alleen een bekertje crème fraîche te mengen met uienpoeder, knoflookpoeder, peper, zout, gedroogde peterselie, paprikapoeder en citroensap. Kind kan de was doen!

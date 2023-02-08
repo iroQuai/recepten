@@ -4,10 +4,11 @@ date: 2022-02-02
 tags:
   - nasi
   - rijst
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:45:28.084Z
+lastmod: 2023-02-08T15:59:43.505Z
 ---
+Bron: https://www.eefkooktzo.nl/nasi-goreng-maken/
 
 ## Benodigdheden
 

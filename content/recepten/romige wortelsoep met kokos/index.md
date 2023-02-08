@@ -1,14 +1,15 @@
 ---
-title: wortelsoep kokos
+title: Romige wortelsoep met kokos
 date: 2022-02-02
 tags:
   - wortel
   - soep
   - kokos
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:46:00.117Z
+lastmod: 2023-02-08T19:32:54.341Z
 ---
+bron: https://www.verseoogst.nl/recepten/romige-wortelsoep-met-kokos
 
 ## Benodigdheden
 
