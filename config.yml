@@ -6,7 +6,7 @@ theme: coyote
 params:
    profile:
      enabled: true
-     name: Ik ben Stijn. Ik hou van eten
+     name: Ik ben Stijn. Ik hou van eten.
      description: "Op deze site verzamel ik mijn favoriete recepten. Voor mijn eigen gemak, maar ook voor jou, als je honger krijgt! Laat je weten hoe het smaakte?"
    social:
      - name: website
