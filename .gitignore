@@ -3,9 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-frontmatter.json
-.vscode/settings.json 
-
+#frontmatter plugin
+*.frontmatter
 # User-specific files
 *.rsuser
 *.suo
@@ -351,4 +350,3 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-frontmatter.json

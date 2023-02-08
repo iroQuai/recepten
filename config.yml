@@ -1,4 +1,4 @@
-baseURL: "https://recepten-iroquai.netlify.app"
+baseURL: "https://coyote-theme--recepten-iroquai.netlify.app"
 title: Stijns recepten
 paginate: 9
 theme: coyote
@@ -17,6 +17,9 @@ menu:
     - identifier: search
       name: Search
       url: search/
+    - identifier: over
+      name: over
+      url: over/
 outputs:
     home:
         - HTML
