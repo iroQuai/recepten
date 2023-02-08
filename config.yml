@@ -1,0 +1,32 @@
+baseURL: "https://coyote-theme--recepten-iroquai.netlify.app"
+title: Stijns recepten
+paginate: 9
+theme: coyote
+
+params:
+   profile:
+     enabled: true
+     name: Ik ben Stijn. Ik hou van eten
+     description: "Op deze site verzamel ik mijn favoriete recepten. Voor mijn eigen gemak, maar ook voor jou, als je honger krijgt! Laat je weten hoe het smaakte?"
+   social:
+     - name: website
+       url: https://stijnbiemans.nl
+     - name: github
+       url: https://github.com/iroQuai/recepten/
+     - name: plus
+       url: https://github.com/iroQuai/recepten/new/main/content/
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: search/
+
+outputs:
+    home:
+        - HTML
+        - JSON

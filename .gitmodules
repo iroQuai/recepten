@@ -2,3 +2,6 @@
 	path = themes/cuisine-book
 	url = https://github.com/ntk148v/hugo-cuisine-book
 
+[submodule "themes/coyote"]
+	path = themes/coyote
+	url = https://github.com/nightswinger/hugo-theme-coyote.git
