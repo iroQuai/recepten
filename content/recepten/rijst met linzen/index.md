@@ -1,13 +1,17 @@
 ---
-title: Rijst met Linzen
-date: 2022-02-02
+title: Rijst met linzen
+date: 2023-02-02
 tags:
-  - Linzen
+  - linzen
+  - rijst
+  - vegan
+  - vega
 image: header.jpg
-description: placeholder
-lastmod: 2023-02-08T19:18:57.569Z
+description: simpel, maar heerlijk en voedzaam
+lastmod: 2023-02-08T20:20:40.005Z
 ---
-bron: https://emsrealfood.nl/rijst-met-linzen/
+
+4 personen | 30 minuten
 
 ## Benodigdheden
 
@@ -27,7 +31,7 @@ bron: https://emsrealfood.nl/rijst-met-linzen/
 4.  Serveer in bakjes, met flink veel versgemalen zwarte peper en een scheutje goede extra vierge olijfolie. Een klont roomboter mag ook! 
 
 ## Notities
+- Als je overhoudt, geen punt, vul dan met de leftovers eens tomaten of paprika’s!
+- Nog sneller aan tafel? Dat kan, gebruik voorgekookte rijst, 150 ml bouillon en kook 5-7 minuten!
 
-Als je overhoudt, geen punt, vul dan met de leftovers eens tomaten of paprika’s!
-
-Nog sneller aan tafel? Dat kan, gebruik voorgekookte rijst, 150 ml bouillon en kook 5-7 minuten!
+[bron](https://emsrealfood.nl/rijst-met-linzen/)

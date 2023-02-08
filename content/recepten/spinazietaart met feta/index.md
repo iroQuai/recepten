@@ -5,25 +5,24 @@ tags:
   - spinazie
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T19:34:50.377Z
+lastmod: 2023-02-08T20:05:25.169Z
 ---
 
 ## Ingredienten
 
--   100 gram  pijnboompitten ((geroosterd)) 
--   400 gram  verse spinazie ((gewassen!)) 
+-   100 gram  pijnboompitten (geroosterd) 
+-   400 gram  verse spinazie (gewassen!) 
 -   300 gram  feta kaas 
--   50 gram  geraspte kaas ((jong belegen)) 
+-   50 gram  geraspte kaas (jong belegen) 
 -   5  eieren 
 -   1  citroen 
 -   1  el gedroogde oregano 
 -   1  klontje roomboter 
--   250 gram  filodeeg ((uit de diepvries, ongeveer 12 vellen)) 
+-   250 gram  filodeeg (uit de diepvries, ongeveer 12 vellen) 
 -   nootmuskaat 
 -   olijfolie 
 
-## Equipment
-
+## Benodigdheden
 -   bakpapier
 -   lage brede pan, Die in de oven kan
 -   koekenpan, voor het roosteren van de pijnboompitjes
@@ -31,7 +30,7 @@ lastmod: 2023-02-08T19:34:50.377Z
 
 ## Bereiding
 
-1.  50 mins  Verzamel al je ingrediënten en keukengerei. Verwarm de oven op 200 graden. Laat het filodeeg alvast buiten de vriezer ontdooien. 
+1.  Verzamel al je ingrediënten en keukengerei. Verwarm de oven op 200 graden. Laat het filodeeg alvast buiten de vriezer ontdooien. 
 2.  Rooster de pijnboompitjes in een droge koekenpan. Af en toe omroeren zodat ze niet verbranden! 
 3.  Doe 5 eieren in een mengkom en kruimel er 300 g aan feta bij. Voeg tevens de 50 g geraspte kaas toe. 
 4.  Voeg een beetje peper, een eetlepel oregano, de geraspte schil van een citroen en een scheutje olijfolie toe. Voeg de pijnboompitjes (wanneer deze geroosterd zijn!) ook toe. Meng het geheel goed om. 

@@ -42,31 +42,48 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
-        },
+        }
+      ]
+    },
+    {
+      "name": "recepten",
+      "pageBundle": true,
+      "fields": [
         {
-          "title": "featured_image",
-          "name": "featured_image",
+          "title": "title",
+          "name": "title",
           "type": "string"
         },
         {
-          "title": "rating",
-          "name": "rating",
+          "title": "date",
+          "name": "date",
           "type": "datetime"
         },
         {
-          "title": "comment",
-          "name": "comment",
-          "type": "datetime"
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
         },
         {
-          "title": "website",
-          "name": "website",
+          "title": "image",
+          "name": "image",
+          "type": "string"
+        },
+        {
+          "title": "description",
+          "name": "description",
           "type": "string"
         },
         {
           "title": "lastmod",
           "name": "lastmod",
           "type": "datetime"
+        },
+        {
+          "name": "type",
+          "type": "string",
+          "default": "recepten",
+          "hidden": true
         }
       ]
     }
@@ -74,6 +91,10 @@
   "frontMatter.framework.id": "hugo",
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
     {
       "title": "content",
       "path": "[[workspace]]/content"

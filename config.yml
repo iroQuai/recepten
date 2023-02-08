@@ -6,20 +6,26 @@ theme: coyote
 params:
    profile:
      enabled: true
-     name: Stijn
-     description: "I've got something to tell you now, Walkman"
+     name: Ik ben Stijn. Ik hou van eten
+     description: "Op deze site verzamel ik mijn favoriete recepten. Voor mijn eigen gemak, maar ook voor jou, als je honger krijgt! Laat je weten hoe het smaakte?"
    social:
+     - name: website
+       url: https://stijnbiemans.nl
      - name: github
-       url: https://github.com/nightswinger/hugo-theme-coyote
+       url: https://github.com/iroQuai/recepten/
+     - name: plus
+       url: https://github.com/iroQuai/recepten/new/main/content/
+
+taxonomies:
+  category: categories
+  tag: tags
 
 menu:
   main:
     - identifier: search
       name: Search
       url: search/
-    - identifier: over
-      name: over
-      url: over/
+
 outputs:
     home:
         - HTML
