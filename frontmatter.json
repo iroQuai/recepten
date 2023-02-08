@@ -75,5 +75,6 @@
   "frontMatter.content.publicFolder": "static",
   "frontMatter.content.pageFolders": [],
   "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": []
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.content.autoUpdateDate": true
 }
