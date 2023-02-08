@@ -1,5 +1,5 @@
 ---
-title: indaise vadouvain curry
+title: Indiase vadouvain curry
 date: 2022-02-02
 tags:
   - curry
