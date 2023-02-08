@@ -8,13 +8,13 @@ tags:
   - vega
 image: header.jpg
 description: simpel, maar heerlijk en voedzaam
-lastmod: 2023-02-08T20:20:40.005Z
+lastmod: 2023-02-08T21:22:33.306Z
 ---
+Een simpel gerecht om te maken, maar erg smakelijk en voedzaam bovendien!  
 
-4 personen | 30 minuten
+_4 porties | 30 minuten_
 
 ## Benodigdheden
-
 -   2  uien 
 -   4  tenen knoflook 
 -   2  (roma)tomaten, goed rijp 
@@ -31,7 +31,9 @@ lastmod: 2023-02-08T20:20:40.005Z
 4.  Serveer in bakjes, met flink veel versgemalen zwarte peper en een scheutje goede extra vierge olijfolie. Een klont roomboter mag ook! 
 
 ## Notities
-- Als je overhoudt, geen punt, vul dan met de leftovers eens tomaten of paprika’s!
-- Nog sneller aan tafel? Dat kan, gebruik voorgekookte rijst, 150 ml bouillon en kook 5-7 minuten!
+Als je overhoudt, geen punt, vul dan met de leftovers eens tomaten of paprika’s!
 
-[bron](https://emsrealfood.nl/rijst-met-linzen/)
+Nog sneller aan tafel? Dat kan, gebruik voorgekookte rijst, 150 ml bouillon en kook 5-7 minuten!
+
+**bron**  
+<https://emsrealfood.nl/rijst-met-linzen/>

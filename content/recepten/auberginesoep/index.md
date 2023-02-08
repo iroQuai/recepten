@@ -1,13 +1,16 @@
 ---
-title: Arabische Auberginesoep
+title: Arabische auberginesoep
 tags:
   - aubergine
   - soep
 image: arabische-auberginesoep.jpg
 description: Heerlijke soep van aubergines
-lastmod: 2023-02-07T22:35:31.074Z
+lastmod: 2023-02-08T21:27:36.772Z
 ---
-4 porties | 50 minuten
+Een heerlijke soep van aubergines, met tomaat en kikkererwten. Serveren met (turks) brood en hummus!  
+Bron: <https://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/>  
+
+_4 porties | 50 minuten_
 
 ## Benodigdheden
 -   1 kleine rode ui  

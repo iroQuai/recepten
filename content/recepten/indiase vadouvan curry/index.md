@@ -3,9 +3,11 @@ title: indaise vadouvain curry
 date: 2022-02-02
 tags:
   - curry
+  - rijst
+  - kokosmelk
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T15:22:47.243Z
+lastmod: 2023-02-08T21:43:07.831Z
 ---
 
 ## Benodigdheden
@@ -17,7 +19,7 @@ lastmod: 2023-02-08T15:22:47.243Z
 -   ½  bouillonblokje, ik had groente 
 -   150 gram  bruine linzen, uit blik 
 -   1  chilipeper 
--   200 milliliters  kokosmelk 
+-   200 milliliter  kokosmelk 
 -   ½  limoen 
 -   koriander 
 
@@ -30,8 +32,7 @@ lastmod: 2023-02-08T15:22:47.243Z
 5.  Voeg de tomatenblokjes, de kokosmelk en het halve bouillonblokje toe en laat het 10 minuten op laag vuur pruttelen. 
 6.  Voeg dan de linzen erbij en verwarm het nog heel even totdat de linzen ook warm zijn. Pers de 1/2 limoen uit en voeg de limoen nu toe. 
 7.  Je kunt dan al gelijk de rijst opscheppen en de curry er overheen schenken. Knip de koriander klein en strooi dit over je curry heen. 
-8.  ![](https://cinc-prod-west.s3.amazonaws.com/media/user-images/thumbs/1000_1000_nocrop/GLA6d9QZ5P.jpg) 
 
 ## Notities
 
-Bron: [greengypsyspices.com/blog...](https://www.greengypsyspices.com/blog/vadouvan-curry-recept/)
+Bron: <https://www.greengypsyspices.com/blog/vadouvan-curry-recept/>

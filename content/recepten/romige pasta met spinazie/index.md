@@ -4,13 +4,14 @@ date: 2022-02-02
 tags:
   - spinazie
   - pasta
+  - zalm
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T15:22:47.154Z
+lastmod: 2023-02-08T21:49:43.057Z
 ---
 
-Deze romige pasta met spinazie en courgette is ontzettend lekker en in zo’n 25 minuten klaar.  
-bron: [lekkerensimpel.com/romige...](https://www.lekkerensimpel.com/romige-pasta-met-spinazie/)
+Deze romige pasta met spinazie en courgette is ontzettend lekker en in zo’n 25 minuten klaar.    
+bron: <https://www.lekkerensimpel.com/romige-pasta-met-spinazie/>
 
 ## Benodigdheden
 
@@ -32,4 +33,3 @@ bron: [lekkerensimpel.com/romige...](https://www.lekkerensimpel.com/romige-pasta
 4.  Voeg na circa 5 minuten de spinazie toe en bak dit een paar minuten mee. Als je verse spinazie gebruikt, dan moet de spinazie eerst slinken voordat je de roomkaas erbij doet. Als je diepvriesspinazie gebruikt, dan verwarm je die 2-3 minuten mee. 
 5.  Voeg vervolgens de roomkaas, cherrytomaatjes en kookroom toe en laat de roomkaas smelten. Breng het geheel op smaak met zout en peper. 
 6.  Meng de pasta door de saus en smullen maar. 
-7.  ![](https://cinc-prod-west.s3.amazonaws.com/media/user-images/thumbs/1000_1000_nocrop/GWKNfivzTp.jpg)

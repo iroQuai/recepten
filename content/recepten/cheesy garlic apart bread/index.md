@@ -1,14 +1,15 @@
 ---
 title: Cheesy garlic apart bread
 tags:
-  - bread
-  - cheese
-  - garlic
+  - brood
+  - kaas
+  - knoflook
 image: cheesy-garlic-bread.jpg
 description: stuffed with lots of cheese
-lastmod: 2023-02-07T22:34:41.429Z
+lastmod: 2023-02-08T21:30:48.971Z
 ---
-http://littlespicejar.com/cheesy-garlic-pull-apart-bread/
+> Eerlijk gezegd heb ik dit recept nog nooit gemaakt. Maar ik zag de foto's (meer bij de bronsite) en ik was direct enthousiast! Dit recept staat dus op mijn lijstje om me er aan te herrinneren dit snel eens te maken. Wie weet snel!  
+bron: http://littlespicejar.com/cheesy-garlic-pull-apart-bread/
 
 Cheesy garlic pull apart bread that’s stuffed with fresh mozzarella, minced garlic, butter, and parsley. This is such a fun, edible centerpiece that would be great to serve when you’re entertaining!
 

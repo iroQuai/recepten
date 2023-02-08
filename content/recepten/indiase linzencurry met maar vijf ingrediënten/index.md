@@ -1,18 +1,20 @@
 ---
-title: Indiase linzencurry
-date: 2022-02-02
+title: Snelle linzencurry
+date: 2016-06-26
 tags:
   - linzen
+  - curry
+  - rijst
+  - snijbonen
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T15:22:47.267Z
+lastmod: 2023-02-08T21:42:11.448Z
 ---
-
 Deze linzencurry is naast smaakvol ook erg voedzaam. Rode linzen zitten boordevol vitamines, mineralen, antioxidanten, vezels en plantaardige eiwitten. Door dat hoge eiwitgehalte zijn ze een uitstekende vleesvervanger.
 
 Er zijn veel groenten die goed combineren met een Indiase linzencurry. Voor dit gerecht gaan we voor snijbonen. Vroeger waren snijbonen veel stugger dan nu. Je had zelfs een speciale snijbonensnijder nodig om ze in stukjes te krijgen. Tegenwoordig zijn snijbonen een stuk zachter en kun je ze makkelijk met een mes in stukjes snijden.
 
-Bron: [nu.nl/eten-en-drinken/602...](https://www.nu.nl/eten-en-drinken/6026116/recept-indiase-linzencurry-met-maar-vijf-ingredienten.html)
+Bron: <https://www.nu.nl/eten-en-drinken/6026116/recept-indiase-linzencurry-met-maar-vijf-ingredienten.html>
 
 ## Benodigdheden
 

@@ -4,14 +4,14 @@ date: 2022-02-02
 tags:
   - tahin
   - bloemkool
+  - vegetarisch
 image: geroosterdebloemkooltahin.jpg
 description: met amandelschilfers en tahin
-lastmod: 2023-02-07T22:41:52.492Z
+lastmod: 2023-02-08T21:35:45.664Z
 ---
-rating: 5
-comment: false
-website: https://www.fisforsofia.be/2020/03/12/geroosterde-bloemkool-met-tahin-amandelschilfers/
-lastmod: 2023-02-07T22:23:51.737Z
+Vroeger at ik bloemkool altijd gekookt, met een kaassausje en wat nootmuskaat. Niks mis mee hoor, maar er is zo veel meer mogelijk met bloemkool! Deze geroosterde versie met oosterse kruiden kan ik ook altijd moeilijk weerstaan :)  
+Bron: <https://www.fisforsofia.be/2020/03/12/geroosterde-bloemkool-met-tahin-amandelschilfers/>
+
 ## Benodigdheden
 
 -   ½  bloemkool, in roosjes 

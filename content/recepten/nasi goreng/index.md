@@ -6,8 +6,9 @@ tags:
   - rijst
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T15:59:43.505Z
+lastmod: 2023-02-08T21:46:44.087Z
 ---
+Een pakje gebruiken kan natuurlijk, maar het kan ook vrij simpel met losse kruiden! Hieronder een recept ter inspiratie.  
 Bron: https://www.eefkooktzo.nl/nasi-goreng-maken/
 
 ## Benodigdheden

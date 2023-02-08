@@ -5,10 +5,12 @@ tags:
   - couscous
   - falafel
   - salade
+  - vegetarisch
 image: falafelbowl.png
-description: "placeholder"
-lastmod: 2023-02-07T22:41:52.487Z
+description: een kom vol heerlijke ingredienten!
+lastmod: 2023-02-08T21:33:54.427Z
 ---
+Maaltijden met veel rauwkost en de mogelijkheid om zelf de verhoudingen van de verschillende ingredienten samen te stellen doen het op een of andere manier altijd heel goed bij ons thuis. Naast "rolletjes" en natuurlijk gourmetten (waar ik zelf wat minder fan van ben) is deze falafelbowl ook altijd een succes!
 
 ## Benodigdheden
 

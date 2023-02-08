@@ -3,25 +3,26 @@ title: Orzo
 date: 2022-02-02
 tags:
   - orzo
+  - pasta
+  - paprika
+  - spinazie
+  - creme fraiche
 image: header.jpg
-description: placeholder
-lastmod: 2023-02-08T15:22:47.193Z
+description: Rijst die denkt dat 'ie pasta is!
+lastmod: 2023-02-08T21:48:12.146Z
 ---
-
+"Rijst 
 Via Picnic!
 
 ## Benodigdheden
-
--   Ingrediënten
 -   400 gram  orzo 
 -   1 paprika, Rood 
 -   400 gram  spinazie 
 -   1  pot geroosterde-paprikareepjes 
 -   200 gram  crème fraîche 
 -   40 gram  geraspte Italiaanse kaas 
--   2 tablespoons  tomatenpuree 
--   Uit eigen keuken
--   2 tablespoons  olijfolie 
+-   2 eetlepels  tomatenpuree 
+-   2 eetlepels  olijfolie 
 -   2  Teentjes knoflook 
 -   zwarte peper en zout 
 

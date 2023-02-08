@@ -8,9 +8,11 @@ tags:
   - mango
   - koriander
 image: header.jpg
-description: placeholder
-lastmod: 2023-02-08T19:23:55.665Z
+description: gebakken chorizo, hmmmm.....
+lastmod: 2023-02-08T21:52:10.696Z
 ---
+Ik probeer eigenlijk zo min mogelijk vlees te eten, en zeker thuis maak ik weinig dingen met vlees meer. maar dit recept doet me toch altijd een twijfelen of ik dat wel volhoudt, want ik vind gebakken chorizo zo ontzettend lekker bij een stamppot!   
+Bron: ooit in een blaadje van de lidl gezien, wie had dat verwacht!
 
 ## Benodigdheden
 

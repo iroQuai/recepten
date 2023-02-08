@@ -3,9 +3,11 @@ title: spinazietaart met feta
 date: 2022-02-02
 tags:
   - spinazie
+  - hartige taart
+  - feta
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T20:05:25.169Z
+lastmod: 2023-02-08T21:53:01.602Z
 ---
 
 ## Ingredienten
