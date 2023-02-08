@@ -3,9 +3,9 @@ title: spinazietaart met feta
 date: 2022-02-02
 tags:
   - spinazie
-image: placeholder.jpg
+image: header.jpg
 description: placeholder
-lastmod: 2023-02-07T22:46:41.215Z
+lastmod: 2023-02-08T19:34:50.377Z
 ---
 
 ## Ingredienten
@@ -22,22 +22,12 @@ lastmod: 2023-02-07T22:46:41.215Z
 -   nootmuskaat 
 -   olijfolie 
 
-Add to shopping list
-
 ## Equipment
 
 -   bakpapier
 -   lage brede pan, Die in de oven kan
 -   koekenpan, voor het roosteren van de pijnboompitjes
 -   Grote pan, Voor het bakken van de spinazie
-
-## Similar Recipes
-
--   [![](https://d3gili29uk62li.cloudfront.net/media/user-images/thumbs/300_96/4WBa6GCpjF.jpg)](https://www.cinc.kitchen/recipes/ZcqU2JGRzb/romige-pasta-met-spinazie)  [Romige pasta met spinazie](https://www.cinc.kitchen/recipes/ZcqU2JGRzb/romige-pasta-met-spinazie)  [iroQuai](https://www.cinc.kitchen/users/iroQuai)  2  0 
--   [![](https://d3gili29uk62li.cloudfront.net/media/user-images/thumbs/300_96/Cd5Yu9UckS.png)](https://www.cinc.kitchen/recipes/RnwZyieKPX/falafelbowl-met-hummus-en-feta)  [Falafelbowl met hummus en feta](https://www.cinc.kitchen/recipes/RnwZyieKPX/falafelbowl-met-hummus-en-feta)  [iroQuai](https://www.cinc.kitchen/users/iroQuai)  1  0 
--   [![](https://d3gili29uk62li.cloudfront.net/media/user-images/thumbs/300_96/RMhzQJ76We.jpg)](https://www.cinc.kitchen/recipes/fxc4rXFBd9/mediterranean-lemon-feta-dip)  [Mediterranean Lemon Feta Dip](https://www.cinc.kitchen/recipes/fxc4rXFBd9/mediterranean-lemon-feta-dip)  [iroQuai](https://www.cinc.kitchen/users/iroQuai)  1  0 
--   [](https://www.cinc.kitchen/recipes/Hcs6Xx5Vtz/peppers-stuffed-with-feta)  [Peppers Stuffed with Feta](https://www.cinc.kitchen/recipes/Hcs6Xx5Vtz/peppers-stuffed-with-feta)  [lilbluehair](https://www.cinc.kitchen/users/lilbluehair)  1  0 
--   [](https://www.cinc.kitchen/recipes/XdPenjv8it/spicy-mix)  [Spicy mix](https://www.cinc.kitchen/recipes/XdPenjv8it/spicy-mix)  [lilbluehair](https://www.cinc.kitchen/users/lilbluehair)  1  0 
 
 ## Bereiding
 
