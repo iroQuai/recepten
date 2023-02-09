@@ -12,7 +12,7 @@ lastmod: 2023-02-08T21:30:48.971Z
 
 Cheesy garlic pull apart bread that’s stuffed with fresh mozzarella, minced garlic, butter, and parsley. This is such a fun, edible centerpiece that would be great to serve when you’re entertaining!
 
-_ 4 tot 6 porties | 10 minuten (+ 20 min oventijd)_
+_4 tot 6 porties | 10 min. (+ 20 min. oventijd)_
 
 ## Benodigdheden
 
