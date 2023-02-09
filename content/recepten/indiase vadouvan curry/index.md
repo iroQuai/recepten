@@ -1,5 +1,5 @@
 ---
-title: Indiase vadouvain curry
+title: Indiase vadouvan curry
 date: 2022-02-02
 tags:
   - curry
@@ -11,6 +11,7 @@ description:
 lastmod: 2023-02-08T21:43:07.831Z
 ---
 
+_2 porties | 25 minuten_
 ## Benodigdheden
 
 -   200 gram  rijst 
