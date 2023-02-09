@@ -10,7 +10,8 @@ description: met amandelschilfers en tahin
 lastmod: 2023-02-08T21:35:45.664Z
 ---
 Vroeger at ik bloemkool altijd gekookt, met een kaassausje en wat nootmuskaat. Niks mis mee hoor, maar er is zo veel meer mogelijk met bloemkool! Deze geroosterde versie met oosterse kruiden kan ik ook altijd moeilijk weerstaan :)  
-Bron: <https://www.fisforsofia.be/2020/03/12/geroosterde-bloemkool-met-tahin-amandelschilfers/>
+
+_15 min. (+35 min oventijd)_
 
 ## Benodigdheden
 
@@ -41,5 +42,6 @@ Bron: <https://www.fisforsofia.be/2020/03/12/geroosterde-bloemkool-met-tahin-ama
 8.  Giet er de dressing erover en werk af met de geroosterde amandelen. 
 
 ## Notities
-
 Tip: strooi er nog wat granaatappel over
+
+Bron: <https://www.fisforsofia.be/2020/03/12/geroosterde-bloemkool-met-tahin-amandelschilfers/>
