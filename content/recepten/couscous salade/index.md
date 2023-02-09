@@ -10,7 +10,8 @@ description: in tabouleh stijl
 lastmod: 2023-02-08T21:31:34.593Z
 ---
 Deze vegetarische couscous salade is een heerlijk bijgerecht en lijkt in de basis op een tabouleh salade. Ook geschikt voor veganisten!   
-bron: <https://www.laurasbakery.nl/vegetarische-couscous-salade>
+
+_4 porties | 30 minuten_
 
 ## Benodigdheden
 
@@ -42,3 +43,6 @@ De couscous is ook lekker met stukjes komkommer of avocado als extra ingrediënt
 
 BEWAREN  
 Afgedekt in de koelkast tot 2 dagen houdbaar, maar de verse groene kruiden worden er hierdoor niet mooier of lekkerder op. Dus als je het wilt voorbereiden voor een speciaal etentje, voeg de kruiden dan pas op het laatste moment toe.
+
+## Notities
+bron: <https://www.laurasbakery.nl/vegetarische-couscous-salade>
