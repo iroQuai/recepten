@@ -8,7 +8,6 @@ description: Heerlijke soep van aubergines
 lastmod: 2023-02-08T21:27:36.772Z
 ---
 Een heerlijke soep van aubergines, met tomaat en kikkererwten. Serveren met (turks) brood en hummus!  
-Bron: <https://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/>  
 
 _4 porties | 50 minuten_
 
@@ -35,3 +34,6 @@ _4 porties | 50 minuten_
 7.  Voeg tot slot de kikkererwten (schoongespoeld) en een tl harissa toe. Roer goed door en verwarm nog even. 
 8.  Haal de soep van het vuur en pureer de soep met een staafmixer. Pas op voor hete spetters! Dit kan ook met sommige blenders, maar check eerst even of je blender tegen hitte kan. 
 9.  Serveer de soep eventueel met wat verse koriander.
+
+## Notities
+Bron: <https://www.ilovehealth.nl/recepten-2/arabische-auberginesoep/>  
