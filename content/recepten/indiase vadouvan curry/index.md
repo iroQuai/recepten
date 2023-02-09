@@ -5,8 +5,9 @@ tags:
   - curry
   - rijst
   - kokosmelk
+  - linzen
 image: header.jpg
-description: placeholder
+description: 
 lastmod: 2023-02-08T21:43:07.831Z
 ---
 
@@ -19,7 +20,7 @@ lastmod: 2023-02-08T21:43:07.831Z
 -   ½  bouillonblokje, ik had groente 
 -   150 gram  bruine linzen, uit blik 
 -   1  chilipeper 
--   200 milliliter  kokosmelk 
+-   200 milliliter kokosmelk 
 -   ½  limoen 
 -   koriander 
 
@@ -34,5 +35,4 @@ lastmod: 2023-02-08T21:43:07.831Z
 7.  Je kunt dan al gelijk de rijst opscheppen en de curry er overheen schenken. Knip de koriander klein en strooi dit over je curry heen. 
 
 ## Notities
-
 Bron: <https://www.greengypsyspices.com/blog/vadouvan-curry-recept/>
