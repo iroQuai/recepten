@@ -9,6 +9,8 @@ lastmod: 2023-02-08T21:40:51.446Z
 ---
 Simpel, lekker, warm. Een echte klassieker voor op de zondagmiddag!
 
+_20 min._
+
 ## Benodigdheden
 
 -   400 gram  voorgesneden soepgroenten 
