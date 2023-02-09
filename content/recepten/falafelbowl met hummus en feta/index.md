@@ -6,6 +6,7 @@ tags:
   - falafel
   - feta
   - hummus
+  - diner
   - salade
   - vegetarisch
 image: falafelbowl.png
