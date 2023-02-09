@@ -5,6 +5,10 @@ tags:
   - tahin
   - bloemkool
   - vegetarisch
+  - sumac
+  - za'atar
+  - oven
+  
 image: geroosterdebloemkooltahin.jpg
 description: met amandelschilfers en tahin
 lastmod: 2023-02-08T21:35:45.664Z
