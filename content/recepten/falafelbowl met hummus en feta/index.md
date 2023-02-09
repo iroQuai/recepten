@@ -4,6 +4,8 @@ date: 2022-02-02
 tags:
   - couscous
   - falafel
+  - feta
+  - hummus
   - salade
   - vegetarisch
 image: falafelbowl.png
