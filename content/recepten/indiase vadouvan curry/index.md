@@ -12,6 +12,7 @@ lastmod: 2023-02-08T21:43:07.831Z
 ---
 
 _2 porties | 25 minuten_
+
 ## Benodigdheden
 
 -   200 gram  rijst 
@@ -36,4 +37,4 @@ _2 porties | 25 minuten_
 7.  Je kunt dan al gelijk de rijst opscheppen en de curry er overheen schenken. Knip de koriander klein en strooi dit over je curry heen. 
 
 ## Notities
-Bron: <https://www.greengypsyspices.com/blog/vadouvan-curry-recept/>
+Bron: https://www.greengypsyspices.com/recepten/vadouvan-curry-met-weinig-ingredienten-recept/
