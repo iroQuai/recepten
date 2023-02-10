@@ -1,6 +1,6 @@
 ---
 title: roomijs - maar dan simpel
-date: 2022-02-02
+date: 2020-05-23
 tags:
   - ijs
 image: header.jpg
