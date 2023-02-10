@@ -6,6 +6,7 @@ tags:
   - vegetarisch
   - vegan
 image: header.jpg
+date: 2022-09-01
 description: in tabouleh stijl
 lastmod: 2023-02-08T21:31:34.593Z
 ---
