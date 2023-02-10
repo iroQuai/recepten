@@ -1,6 +1,6 @@
 ---
 title: pasta spinazie
-date: 2022-02-02
+date: 2019-09-22
 tags:
   - spinazie
   - pasta
