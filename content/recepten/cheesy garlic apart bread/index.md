@@ -6,6 +6,7 @@ tags:
   - knoflook
 image: cheesy-garlic-bread.jpg
 description: stuffed with lots of cheese
+date: 2020-06-09
 lastmod: 2023-02-08T21:30:48.971Z
 ---
 > Eerlijk gezegd heb ik dit recept nog nooit gemaakt. Maar ik zag de foto's (meer bij de bronsite) en ik was direct enthousiast! Dit recept staat dus op mijn lijstje om me er aan te herrinneren dit snel eens te maken. Wie weet snel!  
