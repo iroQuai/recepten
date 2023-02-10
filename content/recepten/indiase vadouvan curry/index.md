@@ -1,6 +1,6 @@
 ---
 title: Indiase vadouvan curry
-date: 2022-02-02
+date: 2020-02-12
 tags:
   - curry
   - rijst
