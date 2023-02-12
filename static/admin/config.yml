@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   repo: iroQuai/recepten
   branch: 'main'
-# media_folder: static/images
-# public_folder: /images
+media_folder: static/images
+public_folder: /images
 collections:
   - name: "recepten"
     label: "Recepten"
@@ -12,8 +12,8 @@ collections:
     folder: "content/recepten"
     # Support Hugo page bundles that puts index.md and images in folders named by slug
     path: "{{slug}}/index"
-    media_folder: "/"
-    public_folder: "/"
+    media_folder: "/content/recepten/{{slug}}/"
+    public_folder: "/content/recepten/{{slug}}/"
     editor:
       preview: false
     fields:
