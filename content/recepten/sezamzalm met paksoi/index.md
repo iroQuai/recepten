@@ -7,7 +7,7 @@ tags:
   - paksoi
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-12T21:48:14.040Z
+lastmod: 2023-02-12T21:49:25.461Z
 ---
 
 ## Ingredienten
@@ -18,7 +18,8 @@ Voor de zalm
 -   1  tl sesamolie 
 -   4  zalmfilets, ontveld 
 -   2  el sesamzaad 
--   1  limoen, In partjes 
+-   1  limoen, In partjes  
+
 Voor de gewokte groenten
 -   2  paksoi, kleine struikjes 
 -   1  bosje bosuitjes 
