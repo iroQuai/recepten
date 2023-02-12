@@ -12,13 +12,14 @@ collections:
     folder: "content/recepten"
     # Support Hugo page bundles that puts index.md and images in folders named by slug
     path: "{{slug}}/index"
-    media_folder: "/content/recepten/{{slug}}/"
-    public_folder: "/content/recepten/{{slug}}/"
+    media_folder: "/"
+    public_folder: "/"
     create: true
     editor:
       preview: false
     fields:
       - { label: 'titel', name: 'title', widget: 'string' }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
