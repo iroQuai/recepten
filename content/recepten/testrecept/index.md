@@ -4,6 +4,7 @@ tags:
   - vegetarisch
 date: 2023-02-12T23:00:26.696Z
 description: lekker recept
-image: /content/recepten/testrecept/bitterbal.jpeg
+image: bitterbal.jpeg
+lastmod: 2023-02-12T23:02:47.893Z
 ---
-h﻿mmmmm
+hmmmmm
