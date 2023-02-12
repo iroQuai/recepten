@@ -22,12 +22,12 @@ collections:
     public_folder: ""
     create: true
     editor:
-      preview: true
+      preview: false
     fields:
-      - { label: 'titel', name: 'title', widget: 'string' }
       - { label: "Draft", name: "draft", widget: "boolean", default: true}
+      - { label: 'titel', name: 'title', widget: 'string' }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Datum', name: 'date', widget: 'datetime' }
       - { label: 'Omschrijving', name: 'description', widget: 'string' }
-      - { label: 'Featured Image', name: 'image', widget: 'image', choose_url: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Afbeelding', name: 'image', widget: 'image', choose_url: false }
+      - { label: 'Inhoud', name: 'body', widget: 'markdown' }
