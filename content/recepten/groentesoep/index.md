@@ -1,10 +1,11 @@
 ---
 title: Groentesoep
-date: 2015-12-02
 tags:
   - soep
-image: header.jpg
+  - vega
+date: 2015-12-02
 description: een echte classic voor op de zondagmiddag
+image: header.jpg
 lastmod: 2023-02-08T21:40:51.446Z
 ---
 Simpel, lekker, warm. Een echte klassieker voor op de zondagmiddag!
