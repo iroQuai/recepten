@@ -3,5 +3,6 @@
         "*.yaml": "home-assistant"
     },
     "[markdown]": {
-    }
+    },
+    "frontMatter.dashboard.openOnStart": true
 }
