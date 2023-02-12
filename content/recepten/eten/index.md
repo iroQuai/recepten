@@ -1,6 +1,6 @@
 ---
 title: eten
-draft: true
+draft: false
 tags:
   - lekker
   - eten
