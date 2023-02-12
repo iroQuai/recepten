@@ -6,10 +6,9 @@ tags:
   - rijst
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T21:46:44.087Z
+lastmod: 2023-02-12T21:26:21.337Z
 ---
 Een pakje gebruiken kan natuurlijk, maar het kan ook vrij simpel met losse kruiden! Hieronder een recept ter inspiratie.  
-Bron: https://www.eefkooktzo.nl/nasi-goreng-maken/
 
 ## Benodigdheden
 
@@ -38,3 +37,6 @@ Bron: https://www.eefkooktzo.nl/nasi-goreng-maken/
 7.  Voeg de rijst toe, bak dit mee en breng alles verder op smaak met peper, zout en naar smaak nog een beetje extra ketjap manis. 
 8.  Bak ondertussen 2 eieren en verdeel er naar smaak een beetje peper en zout over. 
 9.  Verdeel de nasi over 2 kommen, leg het ei erop en eet smakelijk!
+
+## Notities
+Bron: https://www.eefkooktzo.nl/nasi-goreng-maken/

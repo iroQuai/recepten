@@ -5,7 +5,7 @@ tags:
   - ijs
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T21:50:25.511Z
+lastmod: 2023-02-12T21:33:20.121Z
 ---
 
 Heerlijk roomijs met maar drie ingredienten, te maken zonder ijsmachine!
@@ -14,7 +14,7 @@ Heerlijk roomijs met maar drie ingredienten, te maken zonder ijsmachine!
 
 -   500 milliliters  slagroom 
 -   1  blikje gecondenseerde melk, 397 gram 
--   3  tl vanillepasta\*, dit ingredient kan je naar smaak wijzigen naar wat je maar wil!  
+-   3  tl vanillepasta^[dit ingredient kan je naar smaak wijzigen naar wat je maar wil!]  
 
 ## Bereiding
 
@@ -25,5 +25,7 @@ Heerlijk roomijs met maar drie ingredienten, te maken zonder ijsmachine!
 ## Notities
 
 Met het basisrecept (slagroom en gecondenseerde melk) kan je eindeloos varieren! Kaneel, chocolade, aardbeien-uit-blik, je kan het zo gek maken als je wil. Mijn eerste test was met aardbeitjes op siroop. Hierdoor had ik uiteindelijk een liter aardbeien-roomijs in 10 minuten (en 6 uur wachten)
+
+Tot 3 maanden houdbaar in de vriezer.  
 
 bron: <https://www.laurasbakery.nl/3-ingredienten-vanille-roomijs>

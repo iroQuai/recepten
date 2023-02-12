@@ -1,5 +1,5 @@
 ---
-title: mexicaanse dipsaus
+title: Mexicaanse dipsaus
 date: 2022-02-02
 tags:
   - saus
@@ -7,10 +7,9 @@ tags:
   - creme fraiche
 image: header.jpg
 description: zoals die van knorr, maar dan beter!
-lastmod: 2023-02-08T21:48:56.123Z
+lastmod: 2023-02-12T21:25:39.636Z
 ---
 In mijn studententijd kookten we allemaal net te vaak uit van die maaltijdpakketten. De burrito's van Knorr waren altijd lekker. En dan vooral dat vreemde sauspoeder waar je alleen een bakje creme fraiche doorheen hoefde te roeren deed het goed! Inmiddels heb ik het recept daarvoor gevonden - nu kun je dus zelf die saus te maken zonder dat hele maaltijdpakket te hoeven kopen! (en met meer controle over wat er nu precies door je saus gaat)  
-Bron: <https://familieoverdekook.nl/mexicaanse-dipsaus-met-creme-fraiche/>
 
 _200gr saus | 5 minuten_
 
@@ -29,5 +28,5 @@ _200gr saus | 5 minuten_
 1.  Supersimpel: meng alles door elkaar! 
 
 ## Notities
-
-Lekker als dipsaus bij nacho chips of bij tortilla's
+*Tip:* Lekker als dipsaus bij nacho chips of bij tortilla's
+*Bron:* <https://familieoverdekook.nl/mexicaanse-dipsaus-met-creme-fraiche/>

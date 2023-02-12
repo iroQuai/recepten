@@ -9,10 +9,11 @@ tags:
   - koriander
 image: header.jpg
 description: gebakken chorizo, hmmmm.....
-lastmod: 2023-02-08T21:52:10.696Z
+lastmod: 2023-02-12T21:31:02.936Z
 ---
 Ik probeer eigenlijk zo min mogelijk vlees te eten, en zeker thuis maak ik weinig dingen met vlees meer. maar dit recept doet me toch altijd een twijfelen of ik dat wel volhoudt, want ik vind gebakken chorizo zo ontzettend lekker bij een stamppot!   
-Bron: ooit in een blaadje van de lidl gezien, wie had dat verwacht!
+
+_4 porties | 30 minten_
 
 ## Benodigdheden
 
@@ -30,10 +31,14 @@ Bron: ooit in een blaadje van de lidl gezien, wie had dat verwacht!
 
 ## Bereiding
 
-1.  5 mins  schil de zoete aardappels, was ze en snijd ze in stukken van gelijke grootte. 
+1.  schil de zoete aardappels, was ze en snijd ze in stukken van gelijke grootte. 
 2.  15 mins  kook ze in ca 15 minuten gaar (in een ruime pan met een flinke laag koud water en wat zout, afgedekt) 
-3.  5 mins  bak de chorizo zachtjes gedurende 4-5 minuten op zacht vuur in olijfolie in een koekenpan. 
-4.  5 mins  giet de aardappels af en stoom de aardappels in c.a. 30 sec droog op laag vuur. 
-5.  5 mins  voeg het ei en melk toe, stamp tot een grove puree. 
-6.  5 mins  schep de rode peper, het limoensap, de chorizo, de mango en de rucola er doorheen   nog eventjes op laag vuur door verwarmen, 
+3.  bak de chorizo zachtjes gedurende 4-5 minuten op zacht vuur in olijfolie in een koekenpan. 
+4.  giet de aardappels af en stoom de aardappels in c.a. 30 sec droog op laag vuur. 
+5.  voeg het ei en melk toe, stamp tot een grove puree. 
+6.  schep de rode peper, het limoensap, de chorizo, de mango en de rucola er doorheen   nog eventjes op laag vuur door verwarmen, 
 7.  daarna: serveren maar!
+
+## Notities
+
+Bron: ooit in een blaadje van de lidl gezien, wie had dat verwacht!

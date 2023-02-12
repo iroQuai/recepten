@@ -7,9 +7,11 @@ tags:
   - kokos
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T19:32:54.341Z
+lastmod: 2023-02-12T21:29:13.321Z
 ---
-bron: https://www.verseoogst.nl/recepten/romige-wortelsoep-met-kokos
+Deze wortelsoep is heerlijk zoet en lekker te combineren met brood en dips!
+
+_4 porties | 20 minuten_
 
 ## Benodigdheden
 
@@ -35,3 +37,7 @@ bron: https://www.verseoogst.nl/recepten/romige-wortelsoep-met-kokos
 7.  Breng de wortelsoep verder op smaak met versgemalen peper en zout. 
 8.  Serveer de soep in voorverwarmde kommen/borden en schep er tenslotte wat van de sinas/kokos in. 
 9.  Het is ook lekker om verse koriander toe te voegen.
+
+## Notities
+
+bron: https://www.verseoogst.nl/recepten/romige-wortelsoep-met-kokos
