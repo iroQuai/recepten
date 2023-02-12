@@ -1,3 +1,4 @@
+locale: 'nl'
 backend:
   name: git-gateway
   repo: iroQuai/recepten
@@ -19,9 +20,9 @@ collections:
       preview: false
     fields:
       - { label: 'titel', name: 'title', widget: 'string' }
-      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: 'Tags', name: 'tags', widget: 'list' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Datum', name: 'date', widget: 'datetime' }
+      - { label: 'Omschrijving', name: 'description', widget: 'string' }
       - { label: 'Featured Image', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
