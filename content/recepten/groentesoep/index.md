@@ -2,7 +2,6 @@
 title: Groentesoep
 tags:
   - soep
-  - vega
 date: 2015-12-02
 description: een echte classic voor op de zondagmiddag
 image: header.jpg
