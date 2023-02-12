@@ -7,8 +7,10 @@ tags:
   - feta
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T21:53:01.602Z
+lastmod: 2023-02-12T21:42:35.629Z
 ---
+
+_4 porties | 50 minuten_
 
 ## Ingredienten
 

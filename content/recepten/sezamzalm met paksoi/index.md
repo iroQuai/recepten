@@ -1,5 +1,5 @@
 ---
-title: sesamzalm met paksoi
+title: Sesamzalm met paksoi
 date: 2017-06-10
 tags:
   - zalm
@@ -7,19 +7,19 @@ tags:
   - paksoi
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T21:52:27.062Z
+lastmod: 2023-02-12T21:48:14.040Z
 ---
 
-## Benodigdheden
+## Ingredienten
 
--   Voor de zalm
+Voor de zalm
 -   Verse gember, 2,5 cm 
 -   1  el sojasaus 
 -   1  tl sesamolie 
 -   4  zalmfilets, ontveld 
 -   2  el sesamzaad 
 -   1  limoen, In partjes 
--   Voor de gewokte groenten
+Voor de gewokte groenten
 -   2  paksoi, kleine struikjes 
 -   1  bosje bosuitjes 
 -   1  el zonnebloemolie 
