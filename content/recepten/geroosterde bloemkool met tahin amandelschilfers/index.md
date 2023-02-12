@@ -1,5 +1,5 @@
 ---
-title: geroosterde bloemkool
+title: Geroosterde bloemkool
 date: 2022-02-02
 tags:
   - tahin
@@ -10,7 +10,7 @@ tags:
   - oven
 image: geroosterdebloemkooltahin.jpg
 description: met amandelschilfers en tahin
-lastmod: 2023-02-08T21:35:45.664Z
+lastmod: 2023-02-12T21:52:53.855Z
 ---
 Vroeger at ik bloemkool altijd gekookt, met een kaassausje en wat nootmuskaat. Niks mis mee hoor, maar er is zo veel meer mogelijk met bloemkool! Deze geroosterde versie met oosterse kruiden kan ik ook altijd moeilijk weerstaan :)  
 

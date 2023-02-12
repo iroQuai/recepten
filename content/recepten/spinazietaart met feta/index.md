@@ -1,5 +1,5 @@
 ---
-title: spinazietaart met feta
+title: Spinazietaart met feta
 date: 2019-10-22
 tags:
   - spinazie
@@ -7,7 +7,7 @@ tags:
   - feta
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-12T21:42:35.629Z
+lastmod: 2023-02-12T21:51:48.316Z
 ---
 
 _4 porties | 50 minuten_

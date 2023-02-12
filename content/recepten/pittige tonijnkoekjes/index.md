@@ -5,7 +5,7 @@ tags:
   - tonijn
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-08T15:22:47.171Z
+lastmod: 2023-02-12T21:51:21.848Z
 ---
 
 ## Benodigdheden
@@ -26,9 +26,9 @@ lastmod: 2023-02-08T15:22:47.171Z
 2.  Verdeel het mengsel in vier porties en vorm er koekjes van. Bestuif ze met het bloemmengsel 
 3.  Verhit de olie in een braadpan. Voeg de koekjes toe en bak ze 3-4 minuten aan elke kant, tot ze knapperig en goudbruin zijn. 
 4.  Serveer op een bedje van rucola. 
-5.  ![](https://cinc-prod-west.s3.amazonaws.com/media/user-images/thumbs/1000_1000_nocrop/VzvFMsWC76.jpg) 
+
+![](https://cinc-prod-west.s3.amazonaws.com/media/user-images/thumbs/1000_1000_nocrop/VzvFMsWC76.jpg) 
 
 ## Notities
 
-Bron: boek "fastfood snel op tafel"  
-(ISBN 978-1-4075-6996-3)
+Bron: boek "fastfood snel op tafel" (ISBN 978-1-4075-6996-3)

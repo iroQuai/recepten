@@ -1,11 +1,11 @@
 ---
-title: roomijs - maar dan simpel
+title: Roomijs zonder ijsmachine
 date: 2020-05-23
 tags:
   - ijs
 image: header.jpg
 description: placeholder
-lastmod: 2023-02-12T21:40:14.385Z
+lastmod: 2023-02-12T21:52:27.757Z
 ---
 Heerlijk roomijs met maar drie ingredienten, te maken zonder ijsmachine!
 
