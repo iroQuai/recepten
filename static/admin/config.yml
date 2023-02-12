@@ -19,15 +19,7 @@ collections:
       preview: false
     fields:
       - { label: 'titel', name: 'title', widget: 'string' }
-    # - { label: 'Tags2', name: 'tags', widget: 'list' }
-      - name: tags
-        label: Tags
-        widget: relation
-        collection: "tags"
-        search_fields: 'tags.*'
-        value_field: 'tags.*'
-        display_fields: 'tags.*'
-        multiple: true
+      - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Featured Image', name: 'image', widget: 'image', choose_url: true }
