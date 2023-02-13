@@ -7,7 +7,7 @@ tags:
   - broccoli
 date: 2023-02-13T19:11:17.498Z
 description: Soep broccoli en zalm
-image: broccolisoep-met-zalm.jpg
+image: broccolisoep-met-zalm-1-2-690x336.jpg
 ---
 
 _4 porties | 30 minuten_
