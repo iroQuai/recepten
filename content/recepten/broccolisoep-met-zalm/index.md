@@ -9,7 +9,7 @@ date: 2023-02-13T19:11:17.498Z
 description: Soep broccoli en zalm
 image: broccolisoep-met-zalm-1-2-690x336.jpg
 ---
-*4 porties | 30 minuten*
+https://www.mindyourfeed.nl/recepten/lunch/broccolisoep-met-zalm/*4 porties | 30 minuten*
 ## Nodig
 - Soeppan
 Staafmixer
