@@ -1,10 +1,12 @@
 ---
+draft: false
 title: Arabische auberginesoep
 tags:
   - aubergine
   - soep
-image: arabische-auberginesoep.jpg
+date: 2021-05-03T20:41:34.099Z
 description: Heerlijke soep van aubergines
+image: arabische-auberginesoep.jpg
 lastmod: 2023-02-08T21:27:36.772Z
 ---
 Een heerlijke soep van aubergines, met tomaat en kikkererwten. Serveren met (turks) brood en hummus!  
