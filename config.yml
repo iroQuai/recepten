@@ -14,7 +14,7 @@ params:
      - name: github
        url: https://github.com/iroQuai/recepten/
      - name: plus
-       url: https://github.com/iroQuai/recepten/new/main/content/
+       url: https://recepten.stijnbiemans.nl/admin/#/collections/recepten/new
 
 taxonomies:
   category: categories
