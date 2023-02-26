@@ -4,10 +4,10 @@ title: Krokante Tofu (Tahoe)
 tags:
   - tofu
   - tahoe
-  - ""
 date: 2023-02-26T20:50:42.067Z
 description: "Een simpele manier om tofu krokant te bakken. "
 image: header.png
+lastmod: 2023-02-26T21:00:33.187Z
 ---
 T﻿ofu is een beetje zompig spul. Met dit simpele recept maak je er iets heerlijk krokants van!
 
