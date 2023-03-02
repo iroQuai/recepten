@@ -41,13 +41,7 @@ _4 porties | 20 minuten_
 10. Serveer met een frisse salade, eet smakelijk!
 
 ## Notities
-**Tip:**:  
-Je kan vol op variëren met ingrediënten naast de ei, ui en aardappelen. Een aantal tips van de bronsite: 
-
-- Voeg kleine blokjes chorizo toe aan de tortilla.
-- Doe even snel een rondje koelkast voor je een Spaanse tortilla gaat maken en verwerk eventuele restjes groenten erin (in het kader van no waste).
-- (Dunne) plakjes bacon of ham kun je ook prima verwerken door de vulling, erg lekker!
-- Voeg ook eens wat kaas toe tijdens het bakken.
-
+**Tip:** 
+Je kan vol op variëren met ingrediënten naast de ei, ui en aardappelen. mix bijvoorbeeld wat andere groente door het mengsel (check je noelkast op restjes voor boodschappen doet). de vleesliefhebber kan kleine stukjes chorizo, bacon of ham toevoegen en ook lekker: voeg kaas toe tijdens het bakken!
 
 **Bron:** https://www.eefkooktzo.nl/spaanse-aardappeltortilla-recept/ 
