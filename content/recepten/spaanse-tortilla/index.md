@@ -6,6 +6,7 @@ tags:
   - aardappel
   - paprika
   - Spaans
+  - chorizo
 date: 2023-03-02T21:18:47.033Z
 description: Klassiek Spaans gerecht met ei en aardappel
 image: spaanse-tortilla-met-aardappel-recept.jpg
@@ -42,6 +43,6 @@ _4 porties | 20 minuten_
 
 ## Notities
 **Tip:** 
-Je kan vol op variëren met ingrediënten naast de ei, ui en aardappelen. mix bijvoorbeeld wat andere groente door het mengsel (check je noelkast op restjes voor boodschappen doet). de vleesliefhebber kan kleine stukjes chorizo, bacon of ham toevoegen en ook lekker: voeg kaas toe tijdens het bakken!
+Je kan vol op variëren met ingrediënten naast de ei, ui en aardappelen. mix bijvoorbeeld wat andere groente door het mengsel (check je koelkast op restjes voor boodschappen doet). de vleesliefhebber kan kleine stukjes chorizo, bacon of ham toevoegen en ook lekker: voeg kaas toe tijdens het bakken!
 
 **Bron:** https://www.eefkooktzo.nl/spaanse-aardappeltortilla-recept/ 
