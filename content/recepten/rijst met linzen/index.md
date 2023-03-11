@@ -1,13 +1,14 @@
 ---
+draft: false
 title: Rijst met linzen
-date: 2023-02-02
 tags:
   - linzen
   - rijst
   - vegan
   - vega
-image: header.jpg
+date: 2023-02-02
 description: simpel, maar heerlijk en voedzaam
+image: header.jpg
 lastmod: 2023-02-08T21:22:33.306Z
 ---
 Een simpel gerecht om te maken, maar erg smakelijk en voedzaam bovendien!  
