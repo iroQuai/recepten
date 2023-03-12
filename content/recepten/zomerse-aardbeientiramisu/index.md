@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Zomerse aardbeientiramisu
+title: Zomerse tiramisu met aardbei
 tags:
   - Tiramisu
   - aardbei
@@ -14,15 +14,15 @@ Tiramisu vind ik heerlijk! Het is ook een topdessert voor tijdens de kerstdagen.
 _6 porties | 25 minuten (+2 uur opstijven)_
 
 ## Ingrediënten
-- [ ] 1 citroen
-- [ ] 1 tlp vanille extract
-- [ ] 250 gram mascarpone
-- [ ] 50 gram witte basterdsuiker
-- [ ] 250 ml slagroom
-- [ ] 150 ml sinaasappelsap
-- [ ] 175 gram lange vingers
-- [ ] 250 gram verse aardbeien
-- [ ] 20 gram gevriesdroogde aardbeien
+- 1 citroen
+- 1 tlp vanille extract
+- 250 gram mascarpone
+- 50 gram witte basterdsuiker
+- 250 ml slagroom
+- 150 ml sinaasappelsap
+- 175 gram lange vingers
+- 250 gram verse aardbeien
+- 20 gram gevriesdroogde aardbeien
 
 
 ## Bereiding
