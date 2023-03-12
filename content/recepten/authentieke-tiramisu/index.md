@@ -11,7 +11,7 @@ image: tiramisu-hp2.jpg
 ---
 _4 tot 6 porties | 40 minuten (+ 12 tot 24u opstijven)_
 
-## Ingredienten
+## Ingrediënten
 -   500 gram Mascarpone kaas
 -   6 eieren (6 dooiers en het eiwit van 3 eieren)
 -   9 eetlepels suiker (ongeveer 1,5 eetlepel voor elke eierdooier)
