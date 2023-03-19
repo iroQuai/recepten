@@ -4,13 +4,13 @@ title: Dahl
 tags:
   - Dahl
   - linzen
-  - soep
+  - soep 
+  - komijn 
 date: 2023-03-19T12:58:42.828Z
 description: Een zeer smakelijk en makkelijk te bereiden Dahl van rode linzen,
   die ook heel goed als basis voor Dahl soep is te gebruiken.
 image: orig_hugh_fearnley_whittingstalls_dahl_20161220151032258749hzllt.jpg
----
-# Dahl
+---0
 Een eenvoudige dhal van rode linzen past bij zoveel groentegerechten - niet alleen curries en biryani's, pakora's of bhaji's, maar zelfs bij iets eenvoudigs als fijngesneden en roergebakken groente en een schep rijst. Dhal is ook een lekkere manier om wat proteïne aan je vegetarische maaltijd toe te voegen. Dit makkelijke maar authentieke voorbeeld is gebaseerd op een recept van de fantastische Indiase kok Udit Sarkhel.
 
  _4 porties | 30 minuten_
@@ -34,4 +34,4 @@ Schep de uien over de hete linzen in de pan, doe het deksel erop en laat 5 minut
 ## notities
 **Tip**: Met dit basisrecept kan je ook heerlijke Dahl soep maken! Enige dat je hoeft te doen is wat water en/of bouillon  toevoegen (hoeveelheid afhankelijk van je wens voor dikke of dunne soep)
 
-**Bron**: "Veggie" van Hugh Feanley Whittingstall (ISBN 978 90 230 1466 9/NUR 440)
+**Bron**: Uit het boek "Veggie!" van Hugh Feanley Whittingstall (ISBN 978 90 230 1466 9/NUR 440)
