@@ -9,28 +9,29 @@ date: 2023-02-13T19:11:17.498Z
 description: Soep broccoli en zalm
 image: broccolisoep-met-zalm-1-2-690x336.jpg
 ---
-
-_4 porties | 30 minuten_
+*4 porties | 30 minuten*
 
 ## Ingrediënten
-- 750 gram broccoli (steel + roosjes)
-- 1 aardappel (klein)
-- 1 ui
-- 2 teentjes knoflook  
-- 800 ml groentebouillon
-- 100 ml kookroom
-- 200 gram gerookte zalm
-- 2 theelepels dille (gedroogd)
-- peper
-- zout
-- chilivlokken
-- olijfolie (om te bakken)
-  
-## Nodig
-- Soeppan
-- Staafmixer
 
-##  Bereiding
+* 750 gram broccoli (steel + roosjes) :broccoli:
+* 1 aardappel (klein)
+* 1 ui
+* 2 teentjes knoflook  
+* 800 ml groentebouillon
+* 100 ml kookroom
+* 200 gram gerookte zalm
+* 2 theelepels dille (gedroogd)
+* peper
+* zout
+* chilivlokken
+* olijfolie (om te bakken)
+
+## Nodig
+
+* Soeppan
+* Staafmixer
+
+## Bereiding
 
 1. Schil en snipper de ui. Maak de knoflook schoon. Schil de aardappel en snij in stukken.
 2. Snij de broccoliroosjes van de steel. Verwijder de onderkant van de broccolistronk (ongeveer 1 cm) en snij daarna deze stronk in blokjes.
@@ -41,4 +42,5 @@ _4 porties | 30 minuten_
 7. Serveer de broccolisoep met flinters gerookte zalm. Eet smakelijk!
 
 ## Notities
+
 Bron: https://www.mindyourfeed.nl/recepten/lunch/broccolisoep-met-zalm/
