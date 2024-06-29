@@ -16,7 +16,7 @@ Poke bowl is eigenlijk een soort sushi, maar dan zonder zeewier. En niet Japans,
 
 ## Ingrediënten
 
-* 300 gr sushirijst
+* 300 gr sushirijst (pandanrijst ook)
 * 150 ml rijstazijn
 * 375 g verse zalmfilets
 * 0,5 rode peper
@@ -38,5 +38,7 @@ Poke bowl is eigenlijk een soort sushi, maar dan zonder zeewier. En niet Japans,
 ## Notities
 
 **Variatietip**: In principe kan je eindeloos variëren met de combinatie rijst/groente/vis. Andere lekkere ingrediënten in dit recept zijn Edamme boontjes, sushigember of wakame (zeewier salade)
+
+
 
 **Bron**: https://www.ah.nl/allerhande/recept/R-R1188320/poke-bowl-met-zalm
