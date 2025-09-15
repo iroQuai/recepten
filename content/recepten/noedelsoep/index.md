@@ -9,7 +9,7 @@ tags:
 date: 2025-09-16T00:05:00.000+02:00
 description: Snel en makkelijk, leuk om met kinderen te maken! Recept is
   onderdeel van het kinderboek "waar is mijn noedelsoep".
-image: 31476.jpg
+image: 31477.jpg
 ---
 Maak je eigen noedelsoep, snel en makkelijk, leuk om met kinderen te maken! Recept is onderdeel van het kinderboek "waar is mijn noedelsoep"..  
 
