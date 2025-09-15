@@ -44,4 +44,4 @@ Maak je eigen noedelsoep, snel en makkelijk, leuk om met kinderen te maken! Rece
 
 **Tip**: Voor een vegetarische versie gebruik je groentebouillon en vervang je de dumplings en visballetjes door tofu en groenteballetjes (Aziatische toko).  
 
-**Bron**: Eigen recept
+**Bron**: kinderboek [Waar is mijn noedelsoep?](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bol.com/nl/nl/p/waar-is-mijn-noedelsoep/9200000114396573/&ved=2ahUKEwjO2bnV5NuPAxXz8bsIHUpmOHUQFnoECCcQAQ&usg=AOvVaw3w9gFiJDXecTMKz19r_99j)
