@@ -9,10 +9,9 @@ tags:
 date: 2025-09-16T00:05:00.000+02:00
 description: Snel en makkelijk, leuk om met kinderen te maken! Recept is
   onderdeel van het kinderboek "waar is mijn noedelsoep".
-image: 31475.jpg
+image: 31476.jpg
 ---
-
-Maak je eigen noedelsoep: snel en makkelijk, met een beetje hulp van je ouders. Een verwarmende kom soep met noedels, groenten en dumplings.  
+Maak je eigen noedelsoep, snel en makkelijk, leuk om met kinderen te maken! Recept is onderdeel van het kinderboek "waar is mijn noedelsoep"..  
 
 *2 porties | 25 min.*
 
