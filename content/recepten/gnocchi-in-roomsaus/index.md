@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Gnocchi in roomsaus
 tags:
   - Gnocchi
@@ -11,7 +11,7 @@ description: Heerlijk romig gerecht met krokante gnocchi (dat ik gebakken veel
   lekkerder vind dan gekookt!)
 image: 75181.png
 ---
-Krokant gebakken gnocchi geserveerd met een romige citroen-kruidensaus, vega kipreepjes en kikkererwten.
+Heerlijk romig gerecht met krokante gnocchi (dat ik gebakken veel lekkerder vind dan gekookt!)
 
 *4 porties | 30-35 min.*
 
@@ -33,11 +33,11 @@ Krokant gebakken gnocchi geserveerd met een romige citroen-kruidensaus, vega kip
 
 ## Bereiding
 
-1. **Voorbereiding**: Snipper de ui en hak de knoflook fijn. Snijd de paprika in smalle reepjes en de courgette in kwart plakjes van ongeveer een halve centimeter dik. Hak de peterselie fijn. Rasp de gele schil (zeste) van de citroen en pers de vrucht daarna uit. Spoel de kikkererwten af in een zeef en laat ze uitlekken.
-2. **Saus maken**: Verhit 2 eetlepels (olijf)olie in een hapjes- of koekenpan en bak de vegetarische kipstukjes goudbruin volgens de aanwijzingen op de verpakking. Voeg de ui, knoflook en de uitgelekte kikkererwten toe en bak dit 1-2 minuten mee. 
-3. **Groenten en room**: Voeg de kookroom, courgette, paprika en het verkruimelde bouillonblokje toe aan de pan. Breng het geheel aan de kook en laat het zonder deksel 7-8 minuten op middelhoge temperatuur pruttelen tot de saus mooi is ingedikt. Roer in de laatste minuut de citroenzeste en de helft van de peterselie erdoor.
-4. **Gnocchi bakken**: Verhit ondertussen 2 eetlepels (olijf)olie in een andere koekenpan. Bak de gnocchi (rechtstreeks uit de verpakking, dus vooraf koken is niet nodig) in circa 4-6 minuten goudbruin en knapperig op middelhoge temperatuur.
-5. **Serveren**: Verdeel de romige saus over de borden of schep het door de krokante gnocchi. Breng het gerecht eventueel extra op smaak met het citroensap en wat zwarte peper. Garneer met de rest van de verse peterselie.
+1. Snipper de ui en hak de knoflook fijn. Snijd de paprika in smalle reepjes en de courgette in kwart plakjes van ongeveer een halve centimeter dik. Hak de peterselie fijn. Rasp de gele schil (zeste) van de citroen en pers de vrucht daarna uit. Spoel de kikkererwten af in een zeef en laat ze uitlekken.
+2. Verhit 2 eetlepels (olijf)olie in een hapjes- of koekenpan en bak de vegetarische kipstukjes goudbruin volgens de aanwijzingen op de verpakking. Voeg de ui, knoflook en de uitgelekte kikkererwten toe en bak dit 1-2 minuten mee.
+3. Voeg de kookroom, courgette, paprika en het verkruimelde bouillonblokje toe aan de pan. Breng het geheel aan de kook en laat het zonder deksel 7-8 minuten op middelhoge temperatuur pruttelen tot de saus mooi is ingedikt. Roer in de laatste minuut de citroenzeste en de helft van de peterselie erdoor.
+4. Verhit ondertussen 2 eetlepels (olijf)olie in een andere koekenpan. Bak de gnocchi (rechtstreeks uit de verpakking, dus vooraf koken is niet nodig) in circa 4-6 minuten goudbruin en knapperig op middelhoge temperatuur.
+5. Verdeel de romige saus over de borden of schep het door de krokante gnocchi. Breng het gerecht eventueel extra op smaak met het citroensap en wat zwarte peper. Garneer met de rest van de verse peterselie.
 
 ## Notities
 
